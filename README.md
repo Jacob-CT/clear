@@ -9,7 +9,7 @@ I'm using [Netlify](https://www.netlify.com/) to build and host my code because 
 
 <br />
 
-## Live demo
+## Live demo (DEPRECATED)
 
 You can find a simple example of a Webflow site using this setup [here](https://vite-javascript.webflow.io/). The code is hosted on Netlify [here](https://vite-javascript-webflow.netlify.app/main.js). If you want to see the Webflow preview, it's [here](https://preview.webflow.com/preview/vite-javascript?utm_medium=preview_link&utm_source=designer&utm_content=vite-javascript&preview=65fac120c82ee6a81780f5a5cd5ecc59&workflow=preview) 👍
 
